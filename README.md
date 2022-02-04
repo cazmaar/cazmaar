@@ -29,9 +29,9 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 
 
-#### Bizness
+<!-- #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :email: ipenywis@gmail.com -->
 
 
 #### Profile Visits 
