@@ -23,7 +23,7 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+<!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)  -->
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![SQL Badge](https://img.shields.io/badge/-SQL-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
@@ -47,10 +47,6 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
 
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
 #### Coding Stats
 
 <!--START_SECTION:waka-->
@@ -65,7 +61,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Kazeem's github stats](https://github-readme-stats.vercel.app/api?username=cazmaar&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Kazeem's github stats](https://github-readme-stats.vercel.app/api?username=cazmaar&count_private=true&theme=tokyonight&hide=prs)
 
 </details>
 
