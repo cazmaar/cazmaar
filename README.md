@@ -36,7 +36,7 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cazmaar.cazmaar)
 
 <details>
 <summary>
