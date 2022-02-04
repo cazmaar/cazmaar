@@ -8,12 +8,12 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I have a masters in Mechanical Engineering and currently studying @SchoolofCode.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🤔 I’m looking to continue developing both my coding and soft skills and eventually get my first role in tech.
+- 📫 How to reach me: Kazeem.alatishe@yahoo.com
+- 😄 Pronouns: CoderKaz, Kazeem
+- ⚡ Fun fact: I play games ,go to the GYM very often and enjoying learning new things.
 
 #### Top Technologies
 
