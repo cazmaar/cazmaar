@@ -45,7 +45,7 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+I love getting to meet people, writing codes and working in a team because i believe you need to work in a great team in order to get tasks done. 
 
 #### Coding Stats
 
