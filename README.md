@@ -50,12 +50,16 @@ I love getting to meet people, writing codes and working in a team because i bel
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   19 hrs 6 mins   ██████████████████▒░░░░░░   73.98 % 
-CSS          4 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Bash         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JavaScript   24 hrs 26 mins  ████████████████████▒░░░░   81.45 %
+CSS          4 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Bash         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
