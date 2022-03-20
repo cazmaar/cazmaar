@@ -14,7 +14,6 @@ I'm Kazeem Alatishe a Full Stack Web Developer specializing in both front-end an
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking to continue developing both my coding and soft skills and eventually get my first role in tech.
 - 📫 How to reach me: Kazeem.alatishe@yahoo.com
-- 😄 Pronouns: CoderKaz, Kazeem
 - ⚡ Fun fact: I play games ,go to the GYM very often and enjoying learning new things.
 
 #### Top Technologies
