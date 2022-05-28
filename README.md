@@ -51,12 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 4 mins    ██████████████████▓░░░░░░   74.49 %
-Python       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-JSON         14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
-Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   1 hr 15 mins    ██████████████░░░░░░░░░░░   55.58 %
+Python       21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Bash         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
+JSON         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
