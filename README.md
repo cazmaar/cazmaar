@@ -51,7 +51,12 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java         30 mins         ██████████▒░░░░░░░░░░░░░░   41.67 %
+JavaScript   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+JSON         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+XML          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Properties   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+HTML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 ```
 
 <!--END_SECTION:waka-->
