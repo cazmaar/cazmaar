@@ -51,7 +51,8 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-Other        6 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   32.31 %
+Python       3 hrs 53 mins   ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+Other        2 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.90 %
 ```
 
 <!--END_SECTION:waka-->
