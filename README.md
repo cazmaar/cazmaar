@@ -51,12 +51,12 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-YAML         2 hrs 22 mins   ████████████████▓░░░░░░░░   66.93 %
-JavaScript   24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-Python       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Markdown     17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python       3 hrs 15 mins   █████████████░░░░░░░░░░░░   51.47 %
+YAML         2 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.69 %
+JavaScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
