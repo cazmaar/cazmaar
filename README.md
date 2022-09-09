@@ -51,10 +51,10 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-YAML         3 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
-Groovy       2 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Other        1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Python       3 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+Groovy       2 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
+YAML         1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Other        1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
 ```
 
 <!--END_SECTION:waka-->
