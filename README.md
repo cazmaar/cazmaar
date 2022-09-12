@@ -51,8 +51,8 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       2 hrs 1 min     ████████░░░░░░░░░░░░░░░░░   32.53 %
-Other        1 hr 6 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+Groovy       1 hr 32 mins    ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Other        52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
 ```
 
 <!--END_SECTION:waka-->
