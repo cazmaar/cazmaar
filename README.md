@@ -51,10 +51,10 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-YAML         10 hrs 14 mins  ███████████░░░░░░░░░░░░░░   43.42 %
-JavaScript   6 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.60 %
-JSON         2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Other        1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+YAML         9 hrs 39 mins   ██████████░░░░░░░░░░░░░░░   39.97 %
+JavaScript   7 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.49 %
+JSON         3 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Other        1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
 
 <!--END_SECTION:waka-->
