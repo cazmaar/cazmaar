@@ -51,8 +51,8 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     4 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.57 %
-Other        2 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+Markdown     2 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
+Other        2 hrs 17 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.25 %
 ```
 
 <!--END_SECTION:waka-->
