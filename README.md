@@ -51,9 +51,9 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 44 mins    ███████████░░░░░░░░░░░░░░   44.61 %
-YAML         1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   36.73 %
-Other        16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+JavaScript   1 hr 1 min      ████████████████▓░░░░░░░░   66.66 %
+Terraform    12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Other        10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
 ```
 
 <!--END_SECTION:waka-->
