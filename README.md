@@ -51,7 +51,7 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   35 mins         █████████████████████████   100.00 %
+JavaScript   33 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
