@@ -51,7 +51,8 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-HTML   8 mins          █████████████████████████   100.00 %
+HTML    8 mins          █████████████▒░░░░░░░░░░░   53.23 %
+Other   6 mins          ███████████▒░░░░░░░░░░░░░   44.93 %
 ```
 
 <!--END_SECTION:waka-->
