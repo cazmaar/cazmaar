@@ -51,11 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    10 hrs 18 mins  ████████████▒░░░░░░░░░░░░   49.84 %
-JavaScript   7 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
-GraphQL      1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Terraform     10 hrs 18 mins  ███████████▒░░░░░░░░░░░░░   45.77 %
+JavaScript    9 hrs 29 mins   ██████████▓░░░░░░░░░░░░░░   42.16 %
+GraphQL       1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+JSON          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Other         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
