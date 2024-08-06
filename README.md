@@ -52,7 +52,7 @@ I love getting to meet people, writing codes and working in a team because i bel
 
 ```txt
 TypeScript   3 hrs 40 mins   ███████████████████░░░░░░   75.85 %
-YAML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+YAML         33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
 JavaScript   18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 Other        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
