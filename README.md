@@ -51,11 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    2 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.99 %
-Java         1 hr 33 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
-HCL          59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-SQL          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Java         3 hrs 16 mins   ███████████░░░░░░░░░░░░░░   44.02 %
+Terraform    1 hr 34 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+HCL          32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+SQL          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Other        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
