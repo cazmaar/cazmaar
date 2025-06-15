@@ -51,11 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 17 mins   ██████████████▒░░░░░░░░░░   56.67 %
-Terraform    27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JavaScript   26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-TypeScript   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Markdown     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Java         3 hrs 17 mins   ████████████▓░░░░░░░░░░░░   51.20 %
+TypeScript   1 hr 47 mins    ███████░░░░░░░░░░░░░░░░░░   27.94 %
+JavaScript   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+Markdown     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Terraform    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
 ```
 
 <!--END_SECTION:waka-->
