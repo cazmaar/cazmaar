@@ -51,11 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 57 mins  ██████████████████████▓░░   90.83 %
-HTML         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-YAML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   6 hrs 32 mins   ██████████████████████▓░░   90.82 %
+YAML         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+HTML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
