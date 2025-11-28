@@ -51,8 +51,8 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       2 hrs 48 mins   ███████████████▒░░░░░░░░░   61.79 %
-TypeScript   1 hr 43 mins    █████████▓░░░░░░░░░░░░░░░   38.13 %
+Svelte       2 hrs 27 mins   ██████████████░░░░░░░░░░░   55.75 %
+TypeScript   1 hr 57 mins    ███████████░░░░░░░░░░░░░░   44.16 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
