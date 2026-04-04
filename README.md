@@ -51,11 +51,11 @@ I love getting to meet people, writing codes and working in a team because i bel
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   7 hrs 48 mins         ██████████████████░░░░░░░   72.56 %
-Svelte       1 hr 36 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
-Terraform    57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Other        20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TypeScript   4 hrs 10 mins         ███████████████████░░░░░░   75.94 %
+Terraform    57 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Other        20 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
+JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
